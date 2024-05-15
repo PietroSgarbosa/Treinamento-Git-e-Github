@@ -10,5 +10,7 @@ TESTANDO PUSH PARA A MAIN
 😼😎👹👺😂🤣
 (┬┬﹏┬┬)
 
+將卡片的正面和背面發送給我
+
 
 Ash Blossom & Joylous Spring
