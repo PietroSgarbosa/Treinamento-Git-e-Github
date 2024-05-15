@@ -1,4 +1,8 @@
 Coloque seu nome em ordem alfabética:
 -------------------------------------
+<<<<<<< HEAD
 Guilherme Reche
+=======
+Luiz Fernando de Oliveira
+>>>>>>> 0a0bf331d0a92cea6c1de4f9741ac6ec3340555e
 Pietro Sgarbosa
