@@ -1,8 +1,3 @@
 Exercicio em ordem alfabética, adicione o seu nome corretamente na ordem:
 
-<<<<<<< HEAD
-Amanda Goes
-=======
-Guilherme Reche
->>>>>>> 9388daa8155535f9f21b25aaf9acc3cf749779d4
 Pietro Sgarbosa
