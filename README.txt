@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 Parabéns Alane!Deus te abençoe grandemente
 Vai Corinthians! 
 Yuri alberto lindao
@@ -29,3 +31,4 @@ Alteração Amanda
 
 
 
+>>>>>>> f6041826eeda1ad5daf33b8d4e10cc293a0f9824
