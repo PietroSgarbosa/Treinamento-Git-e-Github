@@ -1,8 +1,10 @@
 Coloque seu nome em ordem alfabética:
 -------------------------------------
-<<<<<<< HEAD
+
+Alane Calegari
+Amanda Goes
 Guilherme Reche
-=======
 Luiz Fernando de Oliveira
->>>>>>> 0a0bf331d0a92cea6c1de4f9741ac6ec3340555e
+Luiz Perego
 Pietro Sgarbosa
+Ruan Dinat
