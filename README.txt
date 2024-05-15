@@ -6,7 +6,6 @@ Vai com Deus Cassio!!
 Hello Word!
 Go Loud!
 Primeiro commit. 
-Is not a tea!
 VAMOS SÃO PAULO!#GIRAASPAS
 
 
@@ -20,10 +19,9 @@ TESTANDO PUSH PARA A MAIN
 
 Ash Blossom & Joylous Spring
 
-
-KETCHUP É UM VEGETAL 
-
 Alteração Alane.
+
+Segunda alteração Alane.
 
 Dentro da Hilux eu vi satanas cair do céu como um raio
 
