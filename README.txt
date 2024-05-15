@@ -1,5 +1,6 @@
 Parabéns Alane!Deus te abençoe grandemente
 Vai Corinthians! 
+Yuri alberto lindao
 Hello Word!
 Go Loud!
 Primeiro commit. 
